@@ -1,16 +1,30 @@
-## Hi there 👋
+# Aden
 
-<!--
-**adenfarooq/adenfarooq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+BS Data Science student at UET Lahore's Institute of Data Science. Passionate about turning data into insights and building full-stack applications — from data analysis pipelines to end-to-end web platforms. Currently exploring internship opportunities at software houses.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+| Category  | Technologies                                      |
+|-----------|-----------------------------------------------------|
+| Languages | Python, C#, C++, SQL                                |
+| Frameworks| ASP.NET Core, HTML/CSS/JavaScript                   |
+| Tools     | VS Code, Git, GitHub, Power BI                      |
+| Other Skills | UI/UX Designing, Collaborative Development using Git |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+### Project 1: Sales Data Analytics (EDA)
+Exploratory data analysis on sales data using Python and SQL Server, with insights visualized through Power BI dashboards.
+
+### Project 2: Customer Churn Analysis
+Data analysis project identifying key factors driving customer churn, using Python for EDA and modeling.
+
+### Project 3: F1 Stats & Race Simulation Website
+Full-stack ASP.NET Core MVC application with a normalized SQL Server backend (stored procedures, views, triggers) delivering F1 statistics and race simulation features.
+
+## Education
+BS Data Science, UET Lahore, 2025–2029
+
+## Contact
+- Email: adenfarooq08@gmail.com
+- LinkedIn: [Profile](Aden farooq)
+- GitHub: [@yourusername](https://github.com/adenfarooq)
