@@ -1,7 +1,7 @@
 # Aden Farooq
 
 ## About Me
-BS Data Science student at UET Lahore's Institute of Data Science. focused on turning data into insights by learning ML concepts  and building full-stack applications — from data analysis pipelines to end-to-end web platforms. Currently exploring internship opportunities at software houses.
+BS Data Science student at UET Lahore's Institute of Data Science. focused on turning data into insights by learning ML concepts  and building full-stack applications , from data analysis pipelines to end-to-end web platforms. Currently exploring internship opportunities at software houses.
 
 ## Skills & Technologies
 | Category  | Technologies                                      |
@@ -27,4 +27,4 @@ BS Data Science, UET Lahore, 2025–2029
 ## Contact
 - Email: adenfarooq08@gmail.com
 - LinkedIn: (Aden farooq)
-- GitHub: [@yourusername](https://github.com/adenfarooq)
+- GitHub: (https://github.com/adenfarooq)
